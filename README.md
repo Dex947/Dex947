@@ -16,91 +16,67 @@
 
 ---
 
-## About
+## About (1-min)
 
 I build reliable, explainable AI systems and data platforms end-to-end — from data engineering to model development and operational analytics.
 
-- ⚡ Electrical systems: distribution feeders, load forecasting, asset condition
-- 🛠️ Predictive maintenance: anomaly detection, health indices, failure risk
-- 🤖 AI development: NLP, classical ML, gradient boosting, time series
-- 📊 Data analysis: EDA, statistical modeling, dashboards and reporting
-- 🧱 MLOps & DE: reproducible pipelines, config-driven design, logging, CI-ready
+- ⚡ Electrical systems • load forecasting • asset condition
+- 🛠️ Predictive maintenance • anomaly detection • risk
+- 🤖 AI development • NLP • gradient boosting • time series
+- 📊 Data analysis • EDA • statistical modeling • dashboards
+- 🧱 MLOps & DE • reproducible pipelines • logging • CI-ready
 
 ---
 
-## Portfolio (Selected)
+## Portfolio (Visual)
 
 <table>
 <tr>
-<td width="55%">
-
-### XAI Load Forecasting (Energy/Time Series)
-Explainable day-ahead feeder load forecasting with SHAP-based insights.
-
-- 58 selected features (from 89 engineered)
-- LightGBM + monotonic constraints (Temp → Load)
-- Beats baselines by 14–47% (RMSE 0.770 kW on 30-day holdout)
-- 24 visualizations (profiling, diagnostics, SHAP)
-
-Repo: 👉 <a href="https://github.com/Dex947/xai-load-forecasting">Dex947/xai-load-forecasting</a>
-
+<td width="50%" align="center">
+  <a href="https://github.com/Dex947/xai-load-forecasting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=xai-load-forecasting&theme=gotham" alt="xai-load-forecasting" />
+  </a>
 </td>
-<td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/shap_summary.png" alt="SHAP Summary" width="95%"/>
+<td width="50%" align="center">
+  <a href="https://github.com/Dex947/customer-churn-prediction-xai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=customer-churn-prediction-xai&theme=gotham" alt="customer-churn-prediction-xai" />
+  </a>
 </td>
 </tr>
 </table>
 
-> More projects below by category (search links auto-collect from my repos).
+### Analytics Gallery
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/model_predictions.png" alt="Predictions vs Actual" width="31%"/>
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/shap_summary.png" alt="SHAP Summary" width="31%"/>
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/time_varying_importance.png" alt="Time-Varying Importance" width="31%"/>
+</p>
 
 ---
 
-## Project Matrix (AI Dev • Data Analysis • Engineering)
+## Project Matrix
 
-| Area | What I Build | Browse My Repos |
-|------|---------------|------------------|
-| AI Development | NLP pipelines, gradient boosting, model serving | [AI/ML](https://github.com/search?q=user%3ADex947+topic%3Amachine-learning&type=repositories) · [NLP](https://github.com/search?q=user%3ADex947+topic%3Anlp&type=repositories) · [MLOps](https://github.com/search?q=user%3ADex947+topic%3Amlops&type=repositories) |
-| Time Series | Forecasting, anomaly detection, signal features | [Time Series](https://github.com/search?q=user%3ADex947+topic%3Atime-series&type=repositories) |
-| Predictive Maintenance | Condition monitoring, health scores, risk | [PdM](https://github.com/search?q=user%3ADex947+topic%3Apredictive-maintenance&type=repositories) |
-| Data Engineering | ETL, validation, config-driven pipelines | [Data Eng](https://github.com/search?q=user%3ADex947+topic%3Adata-engineering&type=repositories) |
-| Data Analysis | EDA, statistical modeling, notebooks | [Data Analysis](https://github.com/search?q=user%3ADex947+topic%3Adata-analysis&type=repositories) |
-| Visualization | Reporting, dashboards, monitoring | [Viz](https://github.com/search?q=user%3ADex947+topic%3Avisualization&type=repositories) |
-
-> Tip: Pin your favorite repos on your profile for quick access.
-
----
-
-## Featured Projects
-
-- **Solar Energy Analysis** — Performance analytics for two operational solar plants; actionable insights + predictive capabilities for production planning.
-  - Repo: https://github.com/Dex947/solar_energy_analysis
-  - Tags: `data-analysis`, `time-series`, `energy`, `visualization`
-
-- **Distribution Reliability & Outage Analytics** — Reliability metrics (SAIDI/SAIFI/CAIDI), CENS estimation; ML-powered insights on EIA Form 861.
-  - Repo: https://github.com/Dex947/distribution-reliability-outage-analytics
-  - Tags: `energy`, `data-analysis`, `ml`, `reliability`
-
-- **Customer Churn Prediction (XAI)** — Multi-model ML pipeline (XGBoost, RF, LR) with SHAP/LIME and Streamlit dashboard.
-  - Repo: https://github.com/Dex947/customer-churn-prediction-xai
-  - Tags: `classification`, `xai`, `streamlit`, `sklearn`
-
-- **XAI Churn Predictor** — Explainable churn modeling with multiple algorithms and interpretability tooling.
-  - Repo: https://github.com/Dex947/xai-churn-predictor
-  - Tags: `xai`, `sklearn`, `streamlit`
-
-- **Company Growth Analyzer** — Predictive modeling for company growth trajectories.
-  - Repo: https://github.com/Dex947/company-growth-analyzer
-  - Tags: `ml`, `feature-engineering`, `regression`
+| Area | What I Build | Browse |
+|------|---------------|--------|
+| AI Development | NLP pipelines, gradient boosting, serving | [AI/ML](https://github.com/search?q=user%3ADex947+topic%3Amachine-learning&type=repositories) · [NLP](https://github.com/search?q=user%3ADex947+topic%3Anlp&type=repositories) · [MLOps](https://github.com/search?q=user%3ADex947+topic%3Amlops&type=repositories) |
+| Time Series | Forecasting, anomaly detection | [Time Series](https://github.com/search?q=user%3ADex947+topic%3Atime-series&type=repositories) |
+| Predictive Maintenance | Condition monitoring, health scores | [PdM](https://github.com/search?q=user%3ADex947+topic%3Apredictive-maintenance&type=repositories) |
+| Data Engineering | ETL, validation, config pipelines | [Data Eng](https://github.com/search?q=user%3ADex947+topic%3Adata-engineering&type=repositories) |
+| Data Analysis | EDA, statistical modeling | [Data Analysis](https://github.com/search?q=user%3ADex947+topic%3Adata-analysis&type=repositories) |
 
 ---
 
 ## Skills
 
-- Languages: Python (primary), SQL
-- ML: scikit-learn, LightGBM, XGBoost, SHAP
-- Time Series: pandas, statsmodels
-- Data: Parquet/CSV, Arrow, Polars (familiar)
-- Infra: Git/GitHub, virtualenv/conda, YAML configs, PowerShell/Bash
+<p>
+  <img height="26" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/LightGBM-014F86?logo=apachespark&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/SHAP-333333?logo=fastapi&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/statsmodels-1D2F6F?logo=python&logoColor=white" />
+</p>
 
 ---
 
@@ -110,14 +86,6 @@ Repo: 👉 <a href="https://github.com/Dex947/xai-load-forecasting">Dex947/xai-l
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dex947&theme=gotham&show_icons=true&hide_title=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=gotham&hide_title=true" />
 </p>
-
----
-
-## Current Focus
-
-- Explainable forecasting & predictive maintenance solutions
-- Reliable feature engineering for non-stationary time series
-- Diagnostics-first workflows: residuals, drift, SHAP consistency
 
 ---
 
