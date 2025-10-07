@@ -70,6 +70,30 @@ Repo: 👉 <a href="https://github.com/Dex947/xai-load-forecasting">Dex947/xai-l
 
 ---
 
+## Featured Projects
+
+- **Solar Energy Analysis** — Performance analytics for two operational solar plants; actionable insights + predictive capabilities for production planning.
+  - Repo: https://github.com/Dex947/solar_energy_analysis
+  - Tags: `data-analysis`, `time-series`, `energy`, `visualization`
+
+- **Distribution Reliability & Outage Analytics** — Reliability metrics (SAIDI/SAIFI/CAIDI), CENS estimation; ML-powered insights on EIA Form 861.
+  - Repo: https://github.com/Dex947/distribution-reliability-outage-analytics
+  - Tags: `energy`, `data-analysis`, `ml`, `reliability`
+
+- **Customer Churn Prediction (XAI)** — Multi-model ML pipeline (XGBoost, RF, LR) with SHAP/LIME and Streamlit dashboard.
+  - Repo: https://github.com/Dex947/customer-churn-prediction-xai
+  - Tags: `classification`, `xai`, `streamlit`, `sklearn`
+
+- **XAI Churn Predictor** — Explainable churn modeling with multiple algorithms and interpretability tooling.
+  - Repo: https://github.com/Dex947/xai-churn-predictor
+  - Tags: `xai`, `sklearn`, `streamlit`
+
+- **Company Growth Analyzer** — Predictive modeling for company growth trajectories.
+  - Repo: https://github.com/Dex947/company-growth-analyzer
+  - Tags: `ml`, `feature-engineering`, `regression`
+
+---
+
 ## Skills
 
 - Languages: Python (primary), SQL
