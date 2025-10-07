@@ -16,22 +16,17 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dex947&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dex947&title=visits&edge_flat=false" alt="Profile Hits"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dex947&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dex947&theme=gotham&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
-
-## About (1‑min)
-
-- ⚡ Electrical systems • load forecasting • asset condition
-- 🛠️ Predictive maintenance • anomaly detection • diagnostics
-- 🤖 AI development • gradient boosting • PyTorch • TensorFlow
-- 📊 Data analysis • EDA • dashboards • time series
-- 🧱 MLOps & DE • ETL • orchestration • logging • CI-ready
 
 ---
 
@@ -75,11 +70,17 @@
 
 ---
 
+## Tech Stack (big icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,pytorch,tensorflow,sklearn,pandas,numpy,jupyter,git,github,docker,airflow,gcp&perline=8" />
+</p>
+
+---
+
 ## Skills (curated)
 
 <p>
-  <img height="26" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Time%20Series%20Forecasting-1D2F6F?logo=clockify&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Time%20Series%20Analysis-0B7285?logo=clockify&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Anomaly%20Detection-4F46E5?logo=detective&logoColor=white" />
@@ -87,8 +88,22 @@
   <img height="26" src="https://img.shields.io/badge/ETL%20Pipelines-0A9396?logo=databricks&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Data%20Visualization-0D9488?logo=plotly&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Model%20Evaluation-6B7280?logo=google-analytics&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Pytest%20(Automated%20Testing)-0A9EDC?logo=pytest&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Orchestration-3B82F6?logo=apacheairflow&logoColor=white" />
+</p>
+
+---
+
+## Activity & Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dex947/Dex947/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
