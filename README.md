@@ -45,9 +45,9 @@
 
 ### Analytics Gallery
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/load_patterns.png" alt="Load Patterns" width="31%"/>
-  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/shap_summary.png" alt="SHAP Summary" width="31%"/>
-  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/feature_importance_comparison.png" alt="Feature Importance Comparison" width="31%"/>
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/model_predictions.png" alt="Predictions vs Actual" width="31%"/>
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/shap_waterfall_example.png" alt="SHAP Waterfall" width="31%"/>
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/load_vs_temperature.png" alt="Load vs Temperature" width="31%"/>
 </p>
 
 ---
@@ -58,13 +58,14 @@
   <img height="26" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Time%20Series%20Forecasting-1D2F6F?logo=clockify&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Time%20Series%20Analysis-0B7285?logo=clockify&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Anomaly%20Detection-4F46E5?logo=detective&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Predictive%20Maintenance-0E7490?logo=raspberrypi&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/ETL%20Pipelines-0A9396?logo=databricks&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Data%20Visualization-0D9488?logo=plotly&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Model%20Evaluation-6B7280?logo=google-analytics&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Pytest%20(Automated%20Testing)-0A9EDC?logo=pytest&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Orchestration-3B82F6?logo=apacheairflow&logoColor=white" />
 </p>
 
