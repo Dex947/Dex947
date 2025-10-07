@@ -16,15 +16,13 @@
 
 ---
 
-## About (1-min)
-
-I build reliable, explainable AI systems and data platforms end-to-end — from data engineering to model development and operational analytics.
+## About (1‑min)
 
 - ⚡ Electrical systems • load forecasting • asset condition
-- 🛠️ Predictive maintenance • anomaly detection • risk
-- 🤖 AI development • NLP • gradient boosting • time series
-- 📊 Data analysis • EDA • statistical modeling • dashboards
-- 🧱 MLOps & DE • reproducible pipelines • logging • CI-ready
+- 🛠️ Predictive maintenance • anomaly detection • diagnostics
+- 🤖 AI development • gradient boosting • PyTorch • TensorFlow
+- 📊 Data analysis • EDA • dashboards • time series
+- 🧱 MLOps & DE • ETL • orchestration • logging • CI-ready
 
 ---
 
@@ -47,35 +45,27 @@ I build reliable, explainable AI systems and data platforms end-to-end — from 
 
 ### Analytics Gallery
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/model_predictions.png" alt="Predictions vs Actual" width="31%"/>
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/load_patterns.png" alt="Load Patterns" width="31%"/>
   <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/shap_summary.png" alt="SHAP Summary" width="31%"/>
-  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/time_varying_importance.png" alt="Time-Varying Importance" width="31%"/>
+  <img src="https://raw.githubusercontent.com/Dex947/xai-load-forecasting/main/docs/figures/feature_importance_comparison.png" alt="Feature Importance Comparison" width="31%"/>
 </p>
 
 ---
 
-## Project Matrix
-
-| Area | What I Build | Browse |
-|------|---------------|--------|
-| AI Development | NLP pipelines, gradient boosting, serving | [AI/ML](https://github.com/search?q=user%3ADex947+topic%3Amachine-learning&type=repositories) · [NLP](https://github.com/search?q=user%3ADex947+topic%3Anlp&type=repositories) · [MLOps](https://github.com/search?q=user%3ADex947+topic%3Amlops&type=repositories) |
-| Time Series | Forecasting, anomaly detection | [Time Series](https://github.com/search?q=user%3ADex947+topic%3Atime-series&type=repositories) |
-| Predictive Maintenance | Condition monitoring, health scores | [PdM](https://github.com/search?q=user%3ADex947+topic%3Apredictive-maintenance&type=repositories) |
-| Data Engineering | ETL, validation, config pipelines | [Data Eng](https://github.com/search?q=user%3ADex947+topic%3Adata-engineering&type=repositories) |
-| Data Analysis | EDA, statistical modeling | [Data Analysis](https://github.com/search?q=user%3ADex947+topic%3Adata-analysis&type=repositories) |
-
----
-
-## Skills
+## Skills (curated)
 
 <p>
-  <img height="26" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/LightGBM-014F86?logo=apachespark&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/SHAP-333333?logo=fastapi&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/statsmodels-1D2F6F?logo=python&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Time%20Series%20Forecasting-1D2F6F?logo=clockify&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Anomaly%20Detection-4F46E5?logo=detective&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Predictive%20Maintenance-0E7490?logo=raspberrypi&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/ETL%20Pipelines-0A9396?logo=databricks&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Data%20Visualization-0D9488?logo=plotly&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Model%20Evaluation-6B7280?logo=google-analytics&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" />
+  <img height="26" src="https://img.shields.io/badge/Orchestration-3B82F6?logo=apacheairflow&logoColor=white" />
 </p>
 
 ---
