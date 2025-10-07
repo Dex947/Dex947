@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dex947&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dex947&title=visits&edge_flat=false" alt="Profile Hits"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDex947&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Profile Hits"/>
 </p>
 
 <p align="center">
@@ -100,10 +100,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dex947/Dex947/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
