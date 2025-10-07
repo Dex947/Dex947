@@ -1,8 +1,9 @@
 <!-- Profile README for Dex947 -->
 
 <h1 align="center">Hi, I'm Dex — AI Consultant & Data Engineer</h1>
+
 <p align="center">
-  <b>AI Development • Predictive Maintenance • Electrical Power Systems • Data Analysis • XAI</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=AI+Consultant+%26+Data+Engineer;Predictive+Maintenance+%7C+Energy+Analytics+%7C+XAI;Time+Series+%7C+Anomaly+Detection+%7C+MLOps" alt="Typing Intro" />
 </p>
 
 <p align="center">
@@ -12,6 +13,14 @@
   <a href="https://github.com/Dex947?tab=followers">
     <img alt="Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/Dex947?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dex947&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dex947&theme=gotham&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -52,6 +61,20 @@
 
 ---
 
+## Languages & Platforms
+
+<p>
+  <img height="26" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" title="Python"/>
+  <img height="26" src="https://img.shields.io/badge/Arduino%20(C)-00979D?logo=arduino&logoColor=white" title="Arduino (C)"/>
+  <img height="26" src="https://img.shields.io/badge/MicroPython-2B2D2F?logo=python&logoColor=white" title="MicroPython"/>
+  <img height="26" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white" title="Jupyter Notebook"/>
+  <img height="26" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" title="Google Colab"/>
+  <img height="26" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" title="Google Cloud"/>
+  <img height="26" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" title="SQL"/>
+</p>
+
+---
+
 ## Skills (curated)
 
 <p>
@@ -62,7 +85,6 @@
   <img height="26" src="https://img.shields.io/badge/Anomaly%20Detection-4F46E5?logo=detective&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Predictive%20Maintenance-0E7490?logo=raspberrypi&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/ETL%20Pipelines-0A9396?logo=databricks&logoColor=white" />
-  <img height="26" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Data%20Visualization-0D9488?logo=plotly&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Model%20Evaluation-6B7280?logo=google-analytics&logoColor=white" />
   <img height="26" src="https://img.shields.io/badge/Pytest%20(Automated%20Testing)-0A9EDC?logo=pytest&logoColor=white" />
