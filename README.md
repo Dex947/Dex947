@@ -70,7 +70,7 @@
 
 ---
 
-## Tech Stack (big icons)
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,pytorch,tensorflow,sklearn,pandas,numpy,jupyter,git,github,docker,airflow,gcp&perline=8" />
