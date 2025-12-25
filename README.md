@@ -40,114 +40,55 @@ class DataEngineer:
 
 ### ⚡ Power Systems & Grid Analytics
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Grid Operations AI</h3>
-<p align="center">
-  <a href="https://github.com/Dex947/gridops-agentic-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=gridops-agentic-ai&theme=tokyonight&hide_border=true" alt="gridops-agentic-ai"/>
-  </a>
-</p>
-<p align="center">
-  <strong>Multi-Agent AI System</strong><br/>
-  Distribution network contingency management using LangGraph & Pandapower
-</p>
-</td>
-<td width="50%">
-<h3 align="center">Distribution Reliability Analytics</h3>
-<p align="center">
-  <a href="https://github.com/Dex947/distribution-reliability-outage-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=distribution-reliability-outage-analytics&theme=tokyonight&hide_border=true" alt="distribution-reliability-outage-analytics"/>
-  </a>
-</p>
-<p align="center">
-  <strong>SAIDI/SAIFI/CAIDI Analytics</strong><br/>
-  ML-powered reliability metrics & CENS estimation
-</p>
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**gridops-agentic-ai**](https://github.com/Dex947/gridops-agentic-ai) | Multi-Agent AI System for Distribution Network Contingency Management and Automated Grid Reconfiguration | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-000?style=flat) ![Pandapower](https://img.shields.io/badge/-Pandapower-blue?style=flat) |
+| [**distribution-reliability-outage-analytics**](https://github.com/Dex947/distribution-reliability-outage-analytics) | SAIDI, SAIFI, CAIDI analytics & Cost of Energy Not Supplied (CENS) estimation with ML insights | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-orange?style=flat) |
 
 ### 🔮 Explainable AI & Forecasting
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">XAI Load Forecasting</h3>
-<p align="center">
-  <a href="https://github.com/Dex947/xai-load-forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=xai-load-forecasting&theme=tokyonight&hide_border=true" alt="xai-load-forecasting"/>
-  </a>
-</p>
-<p align="center">
-  <strong>SHAP + LightGBM</strong><br/>
-  Explainable electrical load forecasting system
-</p>
-</td>
-<td width="50%">
-<h3 align="center">XAI Churn Predictor</h3>
-<p align="center">
-  <a href="https://github.com/Dex947/xai-churn-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=xai-churn-predictor&theme=tokyonight&hide_border=true" alt="xai-churn-predictor"/>
-  </a>
-</p>
-<p align="center">
-  <strong>SHAP + LIME Dashboard</strong><br/>
-  Customer churn prediction with Streamlit UI
-</p>
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**xai-load-forecasting**](https://github.com/Dex947/xai-load-forecasting) | Explainable AI Load Forecasting with SHAP and LightGBM for electrical systems | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SHAP](https://img.shields.io/badge/-SHAP-green?style=flat) ![LightGBM](https://img.shields.io/badge/-LightGBM-9cf?style=flat) |
+| [**xai-churn-predictor**](https://github.com/Dex947/xai-churn-predictor) | Customer Churn Prediction with SHAP & LIME, featuring interactive Streamlit dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
 ### 🔧 Predictive Maintenance & IoT
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Predictive Maintenance IoT</h3>
-<p align="center">
-  <a href="https://github.com/Dex947/predictive-maintenance-iot-sensors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=predictive-maintenance-iot-sensors&theme=tokyonight&hide_border=true" alt="predictive-maintenance-iot-sensors"/>
-  </a>
-</p>
-<p align="center">
-  <strong>95.8% Accuracy</strong><br/>
-  Equipment failure prediction on NASA C-MAPSS dataset
-</p>
-</td>
-<td width="50%">
-<h3 align="center">Solar Energy Analysis</h3>
-<p align="center">
-  <a href="https://github.com/Dex947/solar_energy_analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dex947&repo=solar_energy_analysis&theme=tokyonight&hide_border=true" alt="solar_energy_analysis"/>
-  </a>
-</p>
-<p align="center">
-  <strong>Renewable Energy Analytics</strong><br/>
-  Solar power generation optimization insights
-</p>
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**predictive-maintenance-iot-sensors**](https://github.com/Dex947/predictive-maintenance-iot-sensors) | Equipment failure prediction from IoT sensors - **95.8% accuracy** on NASA C-MAPSS dataset | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-blue?style=flat) |
+| [**solar_energy_analysis**](https://github.com/Dex947/solar_energy_analysis) | Solar power generation analytics for performance optimization and production planning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Analytics](https://img.shields.io/badge/-Analytics-yellow?style=flat) |
+
+### 🛠️ Tools & Utilities
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**OptiMetrics**](https://github.com/Dex947/OptiMetrics) | Open-source hardware metrics collection for Windows/Linux/macOS with privacy-focused design | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Cross-Platform](https://img.shields.io/badge/-Cross--Platform-purple?style=flat) |
+| [**company-growth-analyzer**](https://github.com/Dex947/company-growth-analyzer) | AI-powered company growth analysis with ML models for predicting growth trajectories | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-orange?style=flat) |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="ML Stack"/>
-  <br/><em>Machine Learning</em>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,gcp&theme=dark" alt="Infrastructure"/>
-  <br/><em>IoT & Infrastructure</em>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
-  <br/><em>Development Tools</em>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
@@ -155,19 +96,19 @@ class DataEngineer:
 ## 📊 Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time_Series_Forecasting-1D2F6F?style=for-the-badge&logo=clockify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anomaly_Detection-4F46E5?style=for-the-badge&logo=detective&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Predictive_Maintenance-0E7490?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Time_Series_Forecasting-1D2F6F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Anomaly_Detection-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Predictive_Maintenance-0E7490?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Explainable_AI_(XAI)-10B981?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Systems-F59E0B?style=for-the-badge&logo=lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital_Twins-8B5CF6?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explainable_AI_(XAI)-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_Systems-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital_Twins-8B5CF6?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/ETL_Pipelines-0A9396?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-EE4C2C?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-0D9488?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-0A9396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-EE4C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-0D9488?style=for-the-badge"/>
 </p>
 
 ---
@@ -175,24 +116,32 @@ class DataEngineer:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=default&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dex947&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dex947&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dex947&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=Dex947&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dex947&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=minimal&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  </picture>
 </p>
 
 ---
