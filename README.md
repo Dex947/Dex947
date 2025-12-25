@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/github/followers/Dex947?label=Followers&style=for-the-badge&logo=github&color=236ad3" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/Dex947?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-27-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+    <img src="https://img.shields.io/github/stars/Dex947?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Total Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Dex947&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-Welcome!-00d9ff?style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
 
 ---
@@ -115,34 +115,18 @@ class DataEngineer:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-  </picture>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dex947&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex947&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dex947&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dex947&theme=default&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com?user=Dex947&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </picture>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dex947&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=minimal&hide_border=true&area=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-  </picture>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex947&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+</div>
 
 ---
 
