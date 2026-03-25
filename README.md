@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Electrical Engineer | Machine Learning | Predictive Maintenance | Digital Twin Research</strong>
+  <strong>Electrical Engineer | Machine Learning | Predictive Maintenance | Telecom | Network Operations</strong>
 </p>
 
 <p align="center">
